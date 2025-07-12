@@ -20,7 +20,7 @@ export default function About() {
           {/* Profile Image */}
           <div className="flex justify-center">
             <img
-              src="/profile.jpg"
+              src="./portfolio/public/profile.jpg"
               alt="Jay Mangukiya"
               className="w-48 h-48 md:w-52 md:h-52 rounded-full object-cover shadow-xl border-4 border-blue-500"
             />
@@ -123,6 +123,7 @@ export default function About() {
           </div>
         </div>
       </div>
+      
     </motion.div>
   );
 }

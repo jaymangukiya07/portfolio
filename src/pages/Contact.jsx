@@ -40,7 +40,7 @@ export default function Contact() {
 
           {/* Handshake Image */}
           <img
-            src="/handshake.jpg"
+            src="./portfolio/public/handshake.jpg"
             alt="Handshake"
             className="w-full max-w-xs md:max-w-sm rounded-xl shadow-xl mx-auto mt-8"
           />

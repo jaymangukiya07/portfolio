@@ -22,7 +22,7 @@ export default function Resume() {
 
         {/* Download directly */}
         <a
-            href="/Jay_Mangukiya_Resume.pdf"
+            href="./portfolio/public/Jay_Mangukiya_Resume.pdf"
             download
             className="px-6 py-2 border border-blue-600 text-blue-600 rounded-xl hover:bg-blue-600 hover:text-white transition"
         >

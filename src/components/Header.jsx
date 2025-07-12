@@ -6,7 +6,7 @@ export default function Header() {
       <div className="container mx-auto px-6 py-4 flex justify-between items-center">
         {/* Logo */}
         <Link to="/" className="flex items-center space-x-2">
-          <img src="/portfolio-logo.jpg" alt="Logo" className="h-8 w-8 rounded-md "  />
+          <img src="./portfolio/public/portfolio-logo.jpg" alt="Logo" className="h-8 w-8 rounded-md "  />
           <span className="text-4xl font-semibold text-white tracking-wide">
             MyPortfolio
           </span>

@@ -48,7 +48,7 @@ export default function Home() {
         {/* Right Image */}
         <div className="md:w-1/2 flex justify-center mt-8 md:mt-0">
           <img
-            src="/profile.jpg"
+            src="./portfolio/public/profile.jpg"
             alt="Profile"
             className="w-60 h-60 object-cover rounded-full shadow-2xl border-4 border-blue-600"
           />
